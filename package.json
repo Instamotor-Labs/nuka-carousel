@@ -6,9 +6,9 @@
   "dependencies": {
     "create-react-class": "^15.6.2",
     "exenv": "^1.2.0",
-    "kw-react-tween-state": "^0.1.5",
     "object-assign": "^4.1.0",
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.0",
+    "react-tween-state": "^0.1.5"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
